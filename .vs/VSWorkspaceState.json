@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\baselines",
+    "\\baselines\\grid_renders",
+    "\\baselines\\grid_renders\\parallel_scripts",
+    "\\baselines\\ray_exp",
+    "\\clip_experiment",
+    "\\visualization",
+    "\\visualization\\poke_map"
+  ],
+  "SelectedNode": "\\baselines\\ray_exp\\red_gym_env_ray.py",
+  "PreviewInSolutionExplorer": false
+}
